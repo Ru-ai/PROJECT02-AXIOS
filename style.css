@@ -1,0 +1,54 @@
+
+#butt{
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    background-image: url(images/book2.jpg);
+}
+.book-head{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: lawngreen;
+}
+#book-list{
+    text-align: center;
+    text-size-adjust: 2px;
+    color:blue;
+}
+table{
+    margin: 0 auto;
+    font-size: large;
+    border:1px solid black;
+}
+td{
+    border: 1px solid black;
+    background-color:white;
+}
+th,td{
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+td{
+    font-weight: lighter;
+}
+
+.details{
+    background-color:lightgray;
+}
+h1{
+    text-align: center;
+    color: hotpink;
+}
+.book-head{
+    color: lawngreen;
+}
+.ADD{
+    border: lightblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
